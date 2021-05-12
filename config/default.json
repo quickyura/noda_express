@@ -1,0 +1,6 @@
+{
+  "jwt": "1285mvkdjsdkoirfko",
+  "port": 5000,
+  "url_mongoose": "mongodb+srv://yurii:border_top@cluster0.gl20r.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
